@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D436A568-DAAD-41E7-AE79-44501A401094}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChartsServer PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChartsServer/Subscription/DatabaseSubscription.cs">
+    <Files>
+      <File FileName="ChartsServer/Hubs/SatisHub.cs" Line="10" Column="10" />
+      <File FileName="ChartsServer/Program.cs" Line="18" Column="15" />
+      <File FileName="ChartsServer/Properties/launchSettings.json" Line="15" Column="32" />
+      <File FileName="ChartsServer/Subscription/DatabaseSubscription.cs" Line="51" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChartsServer" expanded="True">
+            <Node name="ChartsServer" selected="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Subscription" expanded="True">
+                <Node name="Middleware" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
